@@ -16,4 +16,3 @@ Com o seguinte body:
     "email": "usuario@teste.com",
     "password": "usuario_test_@@"
 }
-Entregar o projeto em um repositório no GitHub, Bitbucket ou afins.
