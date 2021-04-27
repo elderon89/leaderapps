@@ -1,0 +1,12 @@
+{
+  "name": "LeaderApps",
+  "displayName": "LeaderApps",
+  "expo": {
+    "name": "LeaderApps",
+    "slug": "LeaderApps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
